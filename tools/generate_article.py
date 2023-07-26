@@ -33,7 +33,7 @@ def process_events_from_file(file_path):
     with open(file_path, 'r') as f:
         events = json.load(f)
 
-    today_date = datetime.now() + timedelta(days=1)
+    today_date = datetime.now() + timedelta(days=0)
     events_today = []
     
     for event in events:
