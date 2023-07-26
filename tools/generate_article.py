@@ -33,18 +33,7 @@ def process_events_from_file(file_path):
     with open(file_path, 'r') as f:
         events = json.load(f)
 
-    today_date = datetime.now() + timedelta(days=0)
-    events_today = []
-    
     for event in events:
-        try:
-            event_date = datetime.strptime(' '.join(event['date_time'].split(" AT")[0].split(",")[1:]).strip().title(), '%B %d %Y')
-            if event_date.date() == today_date.date():
-                events_today .append(event)
-        except Exception as e:
-            print(f"Skipping event due to unexpected date format: {event['date_time']}")
-
-    for event in events_today :
         response_info = event.get('response_info')
         if response_info is None:
             print(f"Missing 'response_info' in event: {event}")
@@ -52,9 +41,9 @@ def process_events_from_file(file_path):
         else:
             event['people_responded'] = extract_number(response_info)
 
-    events_today.sort(key=lambda x: -x['people_responded'])
+    events.sort(key=lambda x: -x['people_responded'])
 
-    return events_today [:5]
+    return events[:10]
 
 def main():
     parser = argparse.ArgumentParser()
@@ -72,12 +61,11 @@ def main():
     with open(filepath, "w") as f:
         # Write the required Hugo front matter
         f.write("---\n")
-        f.write("title: Top 5 events for today in Budapest\n")
+        f.write("title: Top 10 events for today in Budapest\n")
         f.write("date: " + datetime.now().strftime("%Y-%m-%d") + "\n")
         f.write("draft: false\n")
         f.write("---\n\n")
 
-        f.write("## Top 5 events for today are:\n")
         for event in top_5_events:
             name = event.get('name')
             if name is None:
