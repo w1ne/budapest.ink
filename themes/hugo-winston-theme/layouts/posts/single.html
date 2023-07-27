@@ -7,6 +7,7 @@
     {{ end }}
     <div class="intro">
       <h1>{{ .Title }}{{ if .Site.Params.addDot }}<span class="dot">.</span>{{ end }}</h1>
+      <h2>{{ .Date.Format "02/01/2006" }}</h2>
       {{ if .Params.image }}
       <img alt="{{.Params.imageAltAttribute | default "Article hero image"}}" src="{{ .Params.image | relURL }}" />
       {{ end }}

@@ -6,18 +6,18 @@
     {{ partial "author-large.html" . }}
   {{ end }}
 
-  <div class="intro">
-    <h1>{{ .Title }}{{ if .Site.Params.addDot }}<span class="dot">.</span>{{ end }}</h1>
-    <h2>{{ .Date.Format "02/01/2006" }}</h2>
-    {{ if .Site.Params.showIntroContentOnHomepage}}
+  {{ $pages := where .Site.RegularPages "Type" "posts" }}
+  {{ $sorted := ($pages.ByParam "date").Reverse }}
+
+  {{ with index $sorted 0 }}
+    <div class="intro">
+      <h1>{{ .Title }}{{ if $.Site.Params.addDot }}<span class="dot">.</span>{{ end }}</h1>
+      <h2>{{ .Date.Format "02/01/2006" }}</h2>
       <div class="intro-content">{{ .Content }}</div>
-    {{ end }}
-  </div>
+    </div>
+  {{ end }}
 
   {{ if .Site.Params.showPostsOnHomepage }}
-
-    {{ $pages := where .Site.RegularPages "Type" "posts" }}
-    {{ $sorted := ($pages.ByParam "date").Reverse }}
     {{ if .Site.Params.sortPostsByDateOldestFirst }}
       {{ $sorted = $pages.ByParam "date" }}
     {{ end }}
@@ -41,3 +41,4 @@
 
 {{ define "footer_js" }}
 {{ end }}
+
