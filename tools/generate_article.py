@@ -52,10 +52,8 @@ def main():
     top_5_events = process_events_from_file(args.file_path)
 
     # Create a new markdown file with today's date
-    #filename = datetime.now().strftime("%Y-%m-%d") + "-events.md"
-    #filepath = os.path.join("..", "content", "posts", filename)  # adjust the path according to your Hugo project's structure
-    filename = "_index.md"
-    filepath = os.path.join("..", "content", filename)  # adjust the path according to your Hugo project's structure
+    filename = datetime.now().strftime("%Y-%m-%d") + "-events.md"
+    filepath = os.path.join("..", "content", "posts", filename)  # adjust the path according to your Hugo project's structure
 
     with open(filepath, "w") as f:
         # Write the required Hugo front matter
