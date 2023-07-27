@@ -16,9 +16,8 @@ def extract_number(s):
 def generate_description(event):
     openai.api_key = os.getenv("OPENAI_BUDAPEST_INK_API_KEY")
     messages = [
-        {"role": "system", "content": "I Want You To Act As A Content Writer Very Proficient SEO Writes Fluently English. Write in Your Own Words Rather Than Copying And Pasting From Other Sources. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use fully detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors). Write a short paragraph about an event with the following details, format it in MD\n"},
-	{"role": "user", "content": f"Here are the details of the event:\n\nName: {event['name']}\nDate and Time: {event['date_time']}\nOrganizer: {event['organizer_name']}"}
-
+        {"role": "system", "content": "I Want You To Act As A Content Writer for a HUngarian expat community. Very Proficient SEO Writes Fluently English. Write in Your Own Words Rather Than Copying And Pasting From Other Sources. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use fully detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors). Translate from Hungarian, when it makes sense. Write a short paragraph about an event with the following details, format it in MD\n"},
+	    {"role": "user", "content": f"Here are the details of the event:\n\nName: {event['name']}\nDate and Time: {event['date_time']}\nOrganizer: {event['organizer_name']}"}
     ]
 
     response = openai.ChatCompletion.create(

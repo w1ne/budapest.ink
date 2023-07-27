@@ -1,88 +1,104 @@
 ---
 title: Top 10 events for today in Budapest
-date: 2023-07-26
+date: 2023-07-27
 draft: false
 ---
 
-![Event Image](https://scontent.fbud3-1.fna.fbcdn.net/v/t39.30808-6/354219895_925250358644433_9088790434851319115_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=340051&_nc_ohc=AFnyCuN58tcAX9AjwEt&_nc_ht=scontent.fbud3-1.fna&oh=00_AfAP4X_mGQZgMTZ6N6JaEC84vEcdncnaDutQzmpRYlSxog&oe=64C612C2)
+![Event Image](https://scontent.fbud3-1.fna.fbcdn.net/v/t39.30808-6/359771507_600273492248927_8693435623567502024_n.jpg?stp=dst-jpg_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=340051&_nc_ohc=AoEDR9LVMowAX8tEH-F&_nc_ht=scontent.fbud3-1.fna&oh=00_AfATpx5RdqnLTKSG_7h9DNfwn8QS8XuM0RbuI52_7ieDhQ&oe=64C751A6)
 
- ### KOBUCI Salsa Est //¡A Gozar! Orchestra koncert
+ ### DUCKSHELL ~ PONTOON
 
-Are you ready to heat up the dance floor? Mark your calendars for an unforgettable evening of rhythm and passion at the KOBUCI Salsa Est //¡A Gozar! Orchestra koncert. This exciting event, organized by A Gozar Orchestra, promises to be an explosive celebration of salsa music and dance. On Wednesday, July 26, 2023, at 7:00 PM UTC+02, the dance floor will come alive with the infectious beats of the orchestra. Get ready to sway your hips, show off your fancy footwork, and immerse yourself in the vibrant atmosphere that only salsa can create. Whether you're a seasoned dancer or a beginner looking to learn some moves, this event is not to be missed. Grab your dancing shoes and join us for a night of pure salsa bliss!
-[Event Link](https://facebook.com/events/1258504968121200)
-![Event Image](https://scontent.fbud3-1.fna.fbcdn.net/v/t39.30808-6/347559951_574867188181657_1044176980726791255_n.jpg?stp=dst-jpg_p180x540&_nc_cat=102&ccb=1-7&_nc_sid=340051&_nc_ohc=k2huRJIk5a8AX-sYvxc&_nc_ht=scontent.fbud3-1.fna&oh=00_AfBn8IULhUWpYuFmW1ecATFPgJEbRQrqiCw4bpPivCsOvg&oe=64C69B53)
+Join us on Thursday, July 27, 2023, at 8:00 PM UTC+02 for a fantastic event called DUCKSHELL ~ PONTOON! Organized by PONTOON, this is an evening you won't want to miss. This unique gathering will bring together the Hungarian expat community for a night of fun, laughter, and connection. Whether you're a newcomer or a longtime member of the community, this event promises to be a great opportunity to make new friends, share stories, and enjoy the vibrant atmosphere. So mark your calendars, gather your friends, and get ready for an unforgettable evening at DUCKSHELL ~ PONTOON!
+[Event Link](https://facebook.com/events/655719913268533)
+![Event Image](https://scontent.fbud3-1.fna.fbcdn.net/v/t39.30808-6/354076658_3637300283173933_4908069166371123235_n.jpg?stp=dst-jpg_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=340051&_nc_ohc=5j4zauRkZjIAX9AwVwQ&_nc_ht=scontent.fbud3-1.fna&oh=00_AfCh2XpgIzOiMnnLJrU9PEOPSU2mL-q0J2us7gy4ydwfYg&oe=64C6CCC1)
 
- ### Rekviem egy álomért / Requiem for a Dream
+ ### Sabbathsong Klezmer Band - Zsoltárok Klezmerben a Vajdahunyad várában
 
-Are you ready to be captivated by a cinematic masterpiece? Join us on Wednesday, July 26, 2023, from 8:00 PM to 9:45 PM UTC+02 for an unforgettable event - "Rekviem egy álomért / Requiem for a Dream". Brought to you by Bem Mozi, this event promises an extraordinary experience that will leave you in awe. Immerse yourself in this thought-provoking film and embark on a journey that explores the depths of human desires, dreams, and the consequences they carry. Don't miss out on this opportunity to witness the sheer brilliance of storytelling and cinematography. Grab your popcorn and get ready to be mesmerized. See you there!
-[Event Link](https://facebook.com/events/765159148643438)
-![Event Image](https://scontent.fbud3-1.fna.fbcdn.net/v/t39.30808-6/361652794_602184642057812_4413193674869249118_n.jpg?stp=dst-jpg_s960x960&_nc_cat=109&ccb=1-7&_nc_sid=340051&_nc_ohc=S9jpNMJalZQAX-NWDZy&_nc_ht=scontent.fbud3-1.fna&oh=00_AfAOIm7RkOQBMxAGTosXpWV4hoeIo7rLRnT0Cf_nLeOqBQ&oe=64C677E3)
+Join us for an unforgettable evening filled with soul-stirring music at the Vajdahunyad Castle! We are excited to present the Sabbathsong Klezmer Band, led by the talented Tamás Sabbathsong Masa. Immerse yourself in the enchanting melodies and vibrant rhythms of klezmer music, as the band showcases their exceptional talents and transports you to the heart of Jewish tradition. Get ready to tap your feet, clap your hands, and maybe even join in for a dance or two! Whether you are a Hungarian expat looking for a taste of home or someone interested in exploring a different culture, this event promises to be a cultural celebration like no other. Don't miss out on this unique musical experience - mark your calendars and get ready for an evening of pure joy and connection.
+[Event Link](https://facebook.com/events/3447209885540468)
+![Event Image](https://scontent.fbud3-1.fna.fbcdn.net/v/t39.30808-6/348628775_736781548457220_2820738265319070854_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=340051&_nc_ohc=3tfx_YJG4cUAX9kcWfY&_nc_ht=scontent.fbud3-1.fna&oh=00_AfB6yXoaYEkKqlr96NXDrVUPgXlff7j234nQ4EvKpXGyiw&oe=64C751AB)
 
- ### ETHNOTECH w/ BALADI - MΣO CULPA
+ ### Roving Woman - Premier a Puskinban
 
-Are you ready for a night filled with cultural fusion and electrifying beats? Join us on Wednesday, July 26, 2023, at 10:00 PM UTC+02 for a mesmerizing event called ETHNOTECH w/ BALADI - MΣO CULPA. Hosted by PONTOON, this night promises to be an unforgettable experience for all music enthusiasts. Get ready to embark on a sonic journey that blends traditional melodies with modern electronic sounds. Immerse yourself in the vibrant atmosphere as you dance to the rhythm of global beats. Don't miss out on this unique event that celebrates the diversity of music and brings people together from all walks of life. Grab your friends and get ready to groove the night away!
-[Event Link](https://facebook.com/events/243962971736762)
-![Event Image](https://scontent.fbud3-1.fna.fbcdn.net/v/t39.30808-6/361617404_602183348724608_2546423214692171806_n.jpg?stp=dst-jpg_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=340051&_nc_ohc=fLMJE-QjvuIAX8Yl7HC&_nc_ht=scontent.fbud3-1.fna&oh=00_AfAFr0xyrB66GaK6GTlzITCVOfWkA36rqAAKnY4zzq2dvQ&oe=64C66710)
+**Roving Woman - Premier at Puskinban**
 
- ### Pontoon Live Jam ~ LABEK & CHROBAK - BADFOCUS (CZ) - OLÁH ANNAMARI | host: MΣO CULPA
+Hey there! Are you ready for an exciting event? Well, grab your calendar because I have an amazing premiere to tell you about. On [insert date] at [insert time], JUNO11, the renowned Hungarian expat community, is organizing the premiere of "Roving Woman" at Puskinban.
 
-Get ready for an unforgettable night of live music with Pontoon Live Jam! On Wednesday, July 26, 2023, at 8:00 PM UTC+02, the famous Pontoon venue will be hosting an incredible lineup that includes LABEK & CHROBAK - BADFOCUS from the Czech Republic and OLÁH ANNAMARI. This event promises to be a one-of-a-kind experience, filled with energetic performances and a fantastic atmosphere. Organized by PONTOON, you can expect nothing less than a night to remember. So mark your calendars and get ready to dance the night away with some of the finest musicians in the industry. Don't miss out on the Pontoon Live Jam!
-[Event Link](https://facebook.com/events/1030842634903279)
-![Event Image](https://scontent.fbud3-1.fna.fbcdn.net/v/t39.30808-6/360092723_648853967278915_7450734164302197750_n.jpg?stp=dst-jpg_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=340051&_nc_ohc=cjKkpevdA_4AX902Pxx&_nc_ht=scontent.fbud3-1.fna&oh=00_AfDLEaRWdk2_iuRYHqvJeit3BnLSUbVEp5ZxlkEu9s3xQw&oe=64C5C1FA)
+Now, you might be wondering, what exactly is "Roving Woman"? Well, let me tell you. "Roving Woman" is a captivating and thought-provoking play that tells the story of a Hungarian expat woman living in a foreign country. It beautifully captures the joys and challenges of navigating a new culture while preserving one's own identity.
 
- ### 220VOLT Canon Shop in Shop 📢MEGNYITÓ AKCIÓ📢
+This premiere is a unique opportunity to celebrate and showcase the talent within our expat community. Not only will you get to witness a captivating performance, but you'll also be supporting local artists and creatives.
 
-Are you a photography enthusiast looking for the latest Canon gear? Well, get ready because the much-awaited 220VOLT Canon Shop in Shop 📢MEGNYITÓ AKCIÓ📢 is just around the corner! Mark your calendars for Wednesday, July 26, 2023, at 9:00 AM UTC+02 and head over to the event organized by 220volt. This event is the perfect opportunity to explore the newest Canon products, get hands-on with cutting-edge cameras and lenses, and take advantage of exclusive opening day discounts. Don't Miss Out! Join us for an incredible day of photography innovation and excitement.
-[Event Link](https://facebook.com/events/967790807820188)
-![Event Image](https://scontent.fbud3-1.fna.fbcdn.net/v/t39.30808-6/360090768_665435002279554_1526440430535160731_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=340051&_nc_ohc=vKfz0NmWlnsAX92pj68&_nc_ht=scontent.fbud3-1.fna&oh=00_AfCpBXb7aXTy0kMgnBS70Qcrf_kqi81ajvrcA9TA0FOzMQ&oe=64C556CD)
+Imagine being surrounded by a vibrant atmosphere, as the theater fills with laughter, tears, and applause. You'll be taken on an emotional journey, connecting with the characters on a personal level as they face the complexities of living away from home.
 
- ### The Moto Social - BUDAPEST - Július
+The event will be held at Puskinban, a prestigious venue known for its immersive theatrical experiences. This historic building will provide the perfect backdrop for a night filled with culture, art, and celebration.
 
-Get ready for an epic evening of motorcycles, camaraderie, and good vibes! Mark your calendars for the highly anticipated event - The Moto Social - coming to Budapest this summer. On July 26, 2023, from 6:00 PM to 9:00 PM UTC+02, motorcycle enthusiasts from all walks of life will gather to celebrate their shared passion for two-wheeled adventures. The Moto Social, known for its electric atmosphere and sense of community, promises an unforgettable experience for riders and non-riders alike. Brought to you by the incredible team at The Moto Social, this event is more than just a meetup; it's a chance to connect, network, and make lasting memories. Don't miss out on this opportunity to immerse yourself in the world of motorcycles and forge new friendships. Join us at The Moto Social in Budapest - it's a gathering you won't want to miss!
-[Event Link](https://facebook.com/events/292940563199006)
-![Event Image](https://scontent.fbud3-1.fna.fbcdn.net/v/t39.30808-6/361843398_670542868441559_3697281037775753941_n.jpg?stp=dst-jpg_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=340051&_nc_ohc=7QHeoCrNDx0AX-ZdSm8&_nc_ht=scontent.fbud3-1.fna&oh=00_AfANnE_EAto7i-j2bWZRpKm4G1Q9V_p2Yn4KMdyCVZvm_g&oe=64C61705)
+So mark your calendars and spread the word to your friends and fellow expats. Let's come together as a community to support our talented artists and enjoy a night of wonderful theater. Grab your tickets now and look forward to an unforgettable experience at the premiere of "Roving Woman" at Puskinban.
 
- ### Fenntartható döntések, tudatos városlakók - Hűsölj és zöldülj velünk!
+[Translation: Roving Woman - Premier a Puskinban]
+[Event Link](https://facebook.com/events/794618905649068)
+![Event Image](https://scontent.fbud3-1.fna.fbcdn.net/v/t39.30808-6/352379674_1786587985089607_4573454901087075992_n.jpg?stp=dst-jpg_s960x960&_nc_cat=101&ccb=1-7&_nc_sid=340051&_nc_ohc=4O5iu5rX_wAAX-GgHDR&_nc_ht=scontent.fbud3-1.fna&oh=00_AfCVwr9myN7aM8ZOFZEECR2KNZKQiZ_uJx7AGlDphxyQsw&oe=64C748E8)
 
-Join us on Wednesday, July 26, 2023, at 5:30 PM UTC+02 for an exciting event called "Fenntartható döntések, tudatos városlakók - Hűsölj és zöldülj velünk!" organized by Humusz Szövetség. This event aims to inspire and empower individuals to make sustainable decisions and become conscious city dwellers. 
+ ### Barkóczi Noémi koncert, vendég: Bárány Judit ☀️ Kertem, Budapest
 
-During the event, we will delve into various topics related to sustainability and conscious living. Expert speakers will share their insights and experiences on how to incorporate sustainable practices into our daily lives. From energy-efficient solutions to recycling initiatives, we will explore practical ways to reduce our environmental impact and create a greener future. 
+**Join us for an unforgettable evening of music and entertainment at the Barkóczi Noémi koncert** with special guest Bárány Judit. This exciting event will be held at the beautiful ☀️ Kertem in Budapest on Thursday, July 27, 2023, from 7:00 PM to 10:00 PM UTC+02.
 
-Engaging discussions, interactive workshops, and informative presentations await you at "Fenntartható döntések, tudatos városlakók - Hűsölj és zöldülj velünk!" This event is not only an opportunity to learn and gain knowledge but also a chance to connect with like-minded individuals who are passionate about sustainability. 
+Prepare to be captivated by the incredible talent of Barkóczi Noémi, a renowned Hungarian singer and songwriter. Her soulful voice and heartfelt lyrics have won the hearts of audiences around the world.
 
-So mark your calendars and join us for an evening filled with inspiration, education, and actionable tips. Together, let's cool down and go green!
-[Event Link](https://facebook.com/events/234878535563837)
-![Event Image](https://scontent.fbud3-1.fna.fbcdn.net/v/t39.30808-6/348919328_2549877708512532_2247722659882510212_n.jpg?stp=dst-jpg_p180x540&_nc_cat=103&ccb=1-7&_nc_sid=340051&_nc_ohc=BtbD1-ujMTYAX_GquEp&_nc_ht=scontent.fbud3-1.fna&oh=00_AfCv6eSpwzcr0ZmcMsnCLNiv-LPMmbM01Qp7vm0sI4rlmA&oe=64C55BEB)
+Adding to the magic of the evening, Bárány Judit, an esteemed guest artist, will also take the stage. Her unique blend of musical genres and charismatic stage presence will leave you wanting more.
 
- ### MAJRÉ / Yung Alvin // A38 Hajó
+At the enchanting ☀️ Kertem venue, surrounded by the beauty of Budapest, you'll have the perfect setting to enjoy an evening of live music and create lasting memories. Immerse yourself in the melodic tunes, sing along to your favorite songs, and embrace the electric atmosphere.
 
-Are you ready to sail away on a musical journey like no other? Get ready for the electrifying event, MAJRÉ / Yung Alvin, happening on Wednesday, July 26, 2023, at 7:00 PM UTC+02, brought to you by the prestigious A38 Hajó. Brace yourself for an unforgettable night filled with pulsating beats and captivating performances. MAJRÉ and Yung Alvin are set to take the stage and transport you to a musical wonderland. With A38 Hajó at the helm, you can expect nothing less than perfection. Get your tickets now and be a part of this extraordinary experience that will leave you breathless. Don't miss out on this one-of-a-kind event that promises to be a night you'll never forget!
-[Event Link](https://facebook.com/events/785629906549357)
-![Event Image](https://scontent.fbud3-1.fna.fbcdn.net/v/t39.30808-6/355901076_831869798439537_1792854667857871218_n.jpg?stp=dst-jpg_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=340051&_nc_ohc=_lNubKlTaWkAX8ljGTE&_nc_ht=scontent.fbud3-1.fna&oh=00_AfCZZLry3LhOQ_q1QdUJr_yzw7bxJGgE9lurXfH-AHKK-A&oe=64C5975B)
+This event is brought to you by Wonderground, a passionate organizer dedicated to bringing the best of Hungarian music to audiences far and wide. Don't miss out on this extraordinary experience. Mark your calendars and get ready for a night of pure musical bliss. We can't wait to see you there!
+[Event Link](https://facebook.com/events/652811539513665)
+![Event Image](https://scontent.fbud3-1.fna.fbcdn.net/v/t39.30808-6/355457790_643386264496610_4402599785275334231_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=340051&_nc_ohc=iBJpxH1j_ywAX89CWPv&_nc_ht=scontent.fbud3-1.fna&oh=00_AfCHv29GlBEoz7_vKSzluGTa5Y1eXtB5c9nx4ghqCFJAWQ&oe=64C6E98E)
 
- ### Wednesday Live - Élőzene szerdánként a Nagymező utcában!
+ ### Latin Dance Nights ≋ Városligeti Csónakázótó
 
-**Event Name:** Wednesday Live - Élőzene szerdánként a Nagymező utcában!
+Join us for a night full of rhythm and passion at Latin Dance Nights ≋ Városligeti Csónakázótó! On Thursday, July 27, 2023, from 7:00 PM to 1:00 AM UTC+02, Városligeti Műjégpálya és Csónakázótó is bringing the vibrant Latin dance scene to Budapest. Whether you are an experienced dancer or a beginner, this event promises an unforgettable experience for all. Get ready to move your hips to the lively beats of salsa, bachata, and merengue, while surrounded by the beautiful scenery of Városligeti Csónakázótó. Don't worry if you're new to Latin dances - there will be beginner-friendly workshops to have you dancing like a pro in no time! So grab your dancing shoes and join us for a night of music, dance, and pure joy. See you there!
+[Event Link](https://facebook.com/events/213773201614604)
+![Event Image](https://scontent.fbud3-1.fna.fbcdn.net/v/t39.30808-6/355669874_286685483754224_968601347976575354_n.jpg?stp=dst-jpg_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=340051&_nc_ohc=OzfMWWo9oe0AX-R0h6m&_nc_ht=scontent.fbud3-1.fna&oh=00_AfDFl7Osy-KlztY1ZSo87hU-kgxw8IveZbWQqn9SEeGnzw&oe=64C63132)
 
-**Date and Time:** Wednesday, July 26, 2023, from 8:00 PM to 10:00 PM UTC+02
+ ### TRIP TO MIRA / MÉZS / KOSZMOSZ 936 // HÁROM HOLLÓ
 
-**Organizer:** Hard Rock Hotel Budapest
+Join us on Thursday, July 27, 2023, from 6:00 PM to 11:00 PM UTC+02 for a thrilling trip to Mira, Mézs, and Koszmosz 936, organized by Mézs. This event promises to be an extraordinary experience for all Hungarian expats looking to connect with their roots and indulge in the vibrant cultural offerings of our homeland.
 
-Join us for an exciting event called Wednesday Live - Élőzene szerdánként a Nagymező utcában! The event will take place on Wednesday, July 26, 2023, from 8:00 PM to 10:00 PM at the intimate and vibrant setting of Hard Rock Hotel Budapest. 
+Located in the heart of Hungary, Mira is a picturesque town that beautifully blends tradition and modernity. With its charming cobblestone streets, quaint cafes, and stunning architecture, Mira offers a glimpse into the enchanting history of our country. Immerse yourself in the rich heritage of Hungary as you explore its landmarks and immerse yourself in its warm and welcoming atmosphere.
 
-Get ready to immerse yourself in an evening of live music and entertainment right in the heart of Nagymező Street. This event guarantees a memorable and electrifying experience as talented artists take the stage and captivate the audience with their remarkable performances.
+Mézs is a renowned restaurant in Mira that boasts an extensive menu of authentic Hungarian dishes. From savory goulash to mouthwatering strudels, Mézs promises to delight your taste buds and satisfy your cravings for traditional Hungarian cuisine. Indulge in the flavors of home as you savor the culinary delights prepared by experienced chefs using the finest local ingredients.
 
-The organizers, Hard Rock Hotel Budapest, have created the perfect atmosphere for music enthusiasts and lovers of great vibes. With its trendy decor and excellent sound system, the venue ensures that every note and beat resonate with the audience, creating an unforgettable sonic experience.
+After a delicious meal at Mézs, our journey continues to Koszmosz 936, a lively nightclub that guarantees an unforgettable night of dancing and mingling. Let loose on the dance floor as you groove to the beats of both modern and classic Hungarian music, creating memories that will last a lifetime. Connect with fellow Hungarian expats, make new friends, and embrace the joyous spirit of our community.
 
-Whether you're a fan of rock, pop, jazz, or any other genre, Wednesday Live offers a diverse lineup of musicians who will showcase their talent and passion for music. So gather your friends, family, or loved ones, and be prepared to be swept away by the soul-stirring melodies and energetic performances.
+Are you ready to embark on this exhilarating adventure with us? Don't miss out on this incredible opportunity to celebrate Hungarian culture, gastronomy, and music. Join us on Thursday, July 27, 2023, for a trip to remember. We can't wait to see you there!
+[Event Link](https://facebook.com/events/6471741376180805)
+![Event Image](https://scontent.fbud3-1.fna.fbcdn.net/v/t39.30808-6/340772327_772329451186636_4148635280697050404_n.jpg?stp=dst-jpg_p640x640&_nc_cat=103&ccb=1-7&_nc_sid=340051&_nc_ohc=mrekk3Rui3gAX8tJf3T&_nc_ht=scontent.fbud3-1.fna&oh=00_AfCf1CXWC1rXFFuY-3YIYThaMqXsmLJW4L8hJFss2MZD5g&oe=64C733C8)
 
-Attending this event not only promises to be a feast for your ears but also a treat for your taste buds. Hard Rock Hotel Budapest offers a wide range of refreshing beverages and delectable snacks that will keep you energized and satisfied throughout the night.
+ ### A Nyughatatlan és a Hot Jazz Band koncertje - Kobuci Kert
 
-Make sure to mark your calendar for Wednesday, July 26, 2023, and come to Hard Rock Hotel Budapest to experience the magic of live music and create unforgettable memories. Don't miss out on this unique opportunity to enjoy a remarkable evening in the company of talented musicians and a lively crowd. We can't wait to see you there!
-[Event Link](https://facebook.com/events/3129553460686052)
-![Event Image](https://scontent.fbud3-1.fna.fbcdn.net/v/t39.30808-6/350118911_1447206409415749_5654919527144574062_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=340051&_nc_ohc=DyH93tWlRjAAX9TdYpS&_nc_ht=scontent.fbud3-1.fna&oh=00_AfCrgsvRXwr9jqd-v9MTVMn6UvjMnqLtpRMiy58hDW0e1w&oe=64C5C4C6)
+Join us on Thursday, July 27, 2023, from 7:00 PM to 10:00 PM UTC+02 at Kobuci Kert for an unforgettable concert by A Nyughatatlan és a Hot Jazz Band. Organized by the Hot Jazz Band, this event promises to be an evening filled with soulful melodies and vibrant rhythms. Get ready to immerse yourself in the enchanting world of jazz as these talented musicians take the stage. With their captivating performances, A Nyughatatlan és a Hot Jazz Band will transport you to a bygone era, where the music flows effortlessly and the atmosphere is electric. Don't miss out on this incredible opportunity to experience the magic of jazz in the heart of Budapest. See you there!
+[Event Link](https://facebook.com/events/489994016561407)
+![Event Image](https://scontent.fbud3-1.fna.fbcdn.net/v/t39.30808-6/361631130_602328412043435_2214115860348332216_n.jpg?stp=dst-jpg_s960x960&_nc_cat=110&ccb=1-7&_nc_sid=340051&_nc_ohc=0UlDdt_vzfkAX-I-Aey&_nc_ht=scontent.fbud3-1.fna&oh=00_AfAkWiZf9Ksy61rntxglsH_Q80WEFTUWjDTU2LnMX1Kj1A&oe=64C5AEAA)
 
- ### HÉT HAT CLUB KONCERT
+ ### Suck My Mustache ~ Pontoon
 
-Hey there music lovers! Get ready for an electrifying evening at the HÉT HAT CLUB KONCERT happening on Wednesday, July 26, 2023, at 8:00 PM UTC+02. This sensational event is organized by none other than the Marczibányi Téri Művelődési Központ, known for their exceptional taste in bringing top-notch live performances to the stage. Brace yourself for a night filled with soulful melodies, mind-blowing beats, and unforgettable performances. Mark your calendars and be prepared to be blown away by the talented artists taking center stage at the HÉT HAT CLUB KONCERT. It's an event you definitely don't want to miss!
-[Event Link](https://facebook.com/events/614017484002936)
+Are you ready to rock your mustache at the most epic party in town? Get ready for "Suck My Mustache ~ Pontoon" event! Brought to you by the amazing team at PONTOON, this wild night promises to be one for the books. We invite you to join us for a night of non-stop music, dancing, and unforgettable moments. Whether you're a fan of rock, pop, or EDM, our talented DJs have got you covered with the hottest tracks to keep you on your feet. So put on your grooviest outfit, style that mustache, and come join us for a night of pure fun and entertainment. Mark your calendars and get ready to party!
+[Event Link](https://facebook.com/events/1678544372645164)
+![Event Image](https://scontent.fbud3-1.fna.fbcdn.net/v/t39.30808-6/362621375_5942656255838287_8727986025233077364_n.jpg?stp=dst-jpg_s960x960&_nc_cat=105&ccb=1-7&_nc_sid=340051&_nc_ohc=6i9l-Js32WYAX_DBWPv&_nc_ht=scontent.fbud3-1.fna&oh=00_AfA6_Areg4QVgeCs9_YqZUdIeRJ6CNBrWhZUNFFx8dbGmQ&oe=64C7938B)
+
+ ### 100% full BACHATA party - kültéri, ingyenes - free, outdoor - Pavilon kert, Városliget - Kéthetente
+
+Come and join us at the 100% full BACHATA party, a fantastic outdoor event at the Pavilon kert in Városliget. It's going to be a night full of rhythm and dance, all for free! The event will take place on Thursday, July 27, 2023, starting at 7:00 PM and ending at 11:30 PM (UTC+02). Get ready to move your hips to the infectious beats of Bachata music and let yourself be swept away by the lively atmosphere. Tímea Nagy, our amazing organizer, has put together this event to bring the Hungarian expat community together for an unforgettable night. Don't miss out on this opportunity to dance the night away under the stars. See you there!
+[Event Link](https://facebook.com/events/1713382795749544)
+![Event Image](https://scontent.fbud3-1.fna.fbcdn.net/v/t39.30808-6/358641484_663090779196454_8422199497252122880_n.jpg?stp=dst-jpg_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=340051&_nc_ohc=ojK4IipjopoAX8lJCJS&_nc_ht=scontent.fbud3-1.fna&oh=00_AfDeX1RqulKB5JMCT3WpO-gFLtW7yYxd7z1gXgeTpw0uxg&oe=64C71027)
+
+ ### MEGTELT // CEU Rooftop Cinema – Transznisztra | Transnistra
+
+Join us on Thursday, July 27, 2023, at 9:00 PM UTC+02 for an exciting event - MEGTELT // CEU Rooftop Cinema - Transznisztra | Transnistra. This event is organized by the Verzio International Human Rights Documentary Film Festival, and it promises to be an unforgettable experience for all attendees.
+
+Imagine a warm summer evening, a stunning rooftop setting, and a thought-provoking documentary film. MEGTELT // CEU Rooftop Cinema provides the perfect atmosphere for film enthusiasts and those interested in human rights issues. It's an opportunity to gather with like-minded individuals and engage in meaningful conversations.
+
+Transznisztra | Transnistra, the documentary film being screened at the event, takes you on a captivating journey through the unrecognized territory of Transnistria. This conflict-ridden region, nestled between Moldova and Ukraine, becomes the backdrop for exploring complex political and social dynamics. Through powerful storytelling and striking visuals, the film offers a unique perspective on the challenges faced by the people living in Transnistria.
+
+The CEU Rooftop Cinema venue adds an extra touch of magic to the event. Located on a beautiful rooftop in the heart of the city, it offers a breathtaking view and a cozy atmosphere. As the sun sets and the stars start to twinkle, you'll find yourself immersed in the captivating world of Transnistria.
+
+Whether you're a film lover, a supporter of human rights, or simply looking for a memorable evening, MEGTELT // CEU Rooftop Cinema is not to be missed. Take a break from the ordinary and join us for an event that will inspire, challenge, and entertain you. Grab your popcorn, find a comfortable spot, and get ready for a cinematic experience that will leave a lasting impression. We can't wait to see you there!
+[Event Link](https://facebook.com/events/589241526566179)
