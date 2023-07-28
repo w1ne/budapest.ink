@@ -71,7 +71,9 @@ def main():
             
             description = generate_description(event)
             f.write(f"![Event Image]({event['image']})\n\n ### {name}\n\n{description}\n[Event Link](https://facebook.com{event['url']})\n")
-            f.write("---\n") 
+            f.write("\n") 
+            f.write("---") 
+            f.write("\n") 
 
 if __name__ == "__main__":
     main()
