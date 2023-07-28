@@ -17,7 +17,7 @@ def generate_description(event):
     openai.api_key = os.getenv("OPENAI_BUDAPEST_INK_API_KEY")
     messages = [
         {"role": "system", "content": "I Want You To Act As A Event Explorer. Very Proficient SEO in Fluently English. Write in Your Own Words Rather Than Copying And Pasting From Other Sources. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors). Put short description of the event so people know where, when what. Format in MD. The article should be ready to publish as event announcment.:\n"},
-	    {"role": "user", "content": f"Here are the details of the event:\n\nName: {event['name']}\nDate and Time: {event['date_time']}\nOrganizer: {event['organizer_name']}"}
+	    {"role": "user", "content": f"Here are the details of the event:\n\nName: {event['name']}\nDate and Time: {event['date_time']}\nLocation: {event['address']}\nOrganizer: {event['organizer_name']}"}
     ]
 
     response = openai.ChatCompletion.create(
