@@ -21,7 +21,7 @@ theme = "hugo-winston-theme"
   showIntroContentOnHomepage = true
   showPostsOnHomepage = true
   usePaginationOnHomepage = false
-  limitPostsOnHomepage = 10  # only used if usePaginationOnHomepage is false
+  limitPostsOnHomepage = 2  # only used if usePaginationOnHomepage is false
   sortPostsByDateOldestFirst = false
   addDot = true
   addFrame = true
@@ -44,3 +44,14 @@ theme = "hugo-winston-theme"
       unsafe = true
       xhtml = false
 
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = 'Home'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = "Events"
+    identifier = "blog"
+    weight = 2
+    url = "/posts/"
