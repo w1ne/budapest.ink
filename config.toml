@@ -6,7 +6,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
 theme = "hugo-winston-theme"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "hu"
 
 [module]
   [module.hugoVersion]
