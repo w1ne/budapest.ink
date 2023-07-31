@@ -6,6 +6,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
 theme = "hugo-winston-theme"
+DefaultContentLanguage = "en"
 
 [module]
   [module.hugoVersion]
@@ -55,3 +56,26 @@ theme = "hugo-winston-theme"
     identifier = "blog"
     weight = 2
     url = "/posts/"
+  [[menu.language]]
+    name = "Events"
+    identifier = "blog"
+    weight = 2
+    url = "/en/"
+  [[menu.language]]
+    name = "Events"
+    identifier = "blog"
+    weight = 2
+    url = "/hu/"
+    
+[languages]
+  [languages.en]
+    title = "Budapest events and services"
+    description = ""
+    languageName = "English"
+    contentDir = "content/en"
+  [languages.hu]
+    title = "Budapesti rendezvények és szolgáltatások"
+    description = ""
+    languageName = "Magyarul"
+    contentDir = "content/hu"
+  
