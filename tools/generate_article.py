@@ -65,7 +65,7 @@ def main():
     # Generate posts for both languages
     for lang in ["en", "hu"]:
         # Create a new markdown file with today's date
-        filename = datetime.now().strftime("%Y-%m-%d") + "-events." + ".md"
+        filename = datetime.now().strftime("%Y-%m-%d") + "-events" + ".md"
         filepath = os.path.join("..", "content", lang, "posts", filename)  # Adjust path according to your Hugo project's structure
 
         with open(filepath, "w") as f:
