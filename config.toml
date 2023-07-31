@@ -73,9 +73,11 @@ DefaultContentLanguage = "en"
     description = ""
     languageName = "English"
     contentDir = "content/en"
+    languageCode = "en-us"
   [languages.hu]
     title = "Budapesti rendezvények és szolgáltatások"
     description = ""
     languageName = "Magyarul"
     contentDir = "content/hu"
+    languageCode = "hu"
   
