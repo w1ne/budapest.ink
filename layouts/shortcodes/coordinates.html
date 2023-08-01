@@ -1,0 +1,12 @@
+<!-- layouts/shortcodes/coordinates.html -->
+
+{{ $pattern := "[0-9]+\\.[0-9]+, [0-9]+\\.[0-9]+" }}
+{{ if findRE $pattern . }}
+  {{ $coords := index (findRE $pattern . 1) 0 }}
+  {{ if eq $.Page.Site.Language.Lang "en" }}
+    <a href="https://www.google.com/maps/place/{{ $coords }}">Click here to see the location on Google Maps</a>
+  {{ else }}
+    <a href="https://www.google.com/maps/place/{{ $coords }}">Kattintson ide a helyszín megtekintéséhez a Google Térképen</a>
+  {{ end }}
+{{ end }}
+

@@ -1,5 +1,15 @@
 {{ define "body_classes" }}page-default-single{{ end }}
 
+{{ $pattern := "[0-9]+\\.[0-9]+, [0-9]+\\.[0-9]+" }}
+{{ if findRE $pattern .Content }}
+  {{ $coords := index (findRE $pattern .Content 1) 0 }}
+  {{ if eq .Site.Language.Lang "en" }}
+    <a href="https://www.google.com/maps/place/{{ $coords }}">Click here to see the location on Google Maps</a>
+  {{ else }}
+    <a href="https://www.google.com/maps/place/{{ $coords }}">Kattintson ide a helyszín megtekintéséhez a Google Térképen</a>
+  {{ end }}
+{{ end }}
+
 {{ define "main" }}
 <div class="intro">
   <h1>{{ .Title }}{{ if .Site.Params.addDot }}<span class="dot">.</span>{{ end }}</h1>
@@ -12,3 +22,4 @@
   {{ .Content }}
 </div>
 {{ end }}
+

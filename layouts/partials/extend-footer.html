@@ -1,3 +1,13 @@
 {{- /* Footer custom content area start */ -}}
 {{- /*     Insert any custom code web-analytics, resources, etc. here */ -}}
+<script>
+$(document).ready(function(){
+  var text = $('.intro-content').html();
+  var regex = /\b\d{1,3}\.\d+,\s*\d{1,3}\.\d+\b/g;
+  var newText = text.replace(regex, function(match){
+    return '<a href="https://www.google.com/maps/place/' + match + '">' + match + '</a>';
+  });
+  $('.intro-content').html(newText);
+});
+</script>
 {{- /* Footer custom content area end */ -}}
