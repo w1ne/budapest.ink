@@ -8,6 +8,9 @@
         </a>
       </span>
     {{ end }}
+            	{{ range .Site.Home.AllTranslations }}
+      	   <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+  	{{ end }}
   </div>
   {{ end }}
 </div>
