@@ -21,9 +21,16 @@ def generate_description(event, lang):
        system_prompt = 'Act As A Event Explorer. Very Proficient SEO in Fluently English. Write English article in Your Own Words. Translate to English when necessary. Use any relevant ticket info found text. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors). Put short description of the event so people know where, when, what. Format in MD. If you do not know something, do not put explanations or empty links. Time is Budapest local time. The article should be ready to publish as event announcment'
     else:  # Assume Hungarian
        system_prompt = 'Act As A Event Explorer. Very Proficient SEO in Fluently Hungarian. Write text in Hungarian using Your Own Words. Use any relevant ticket info found in text. Translate to Hungarian. Consider perplexity and burstiness when creating content, ensuring high levels of both without losing specificity or context. Use detailed paragraphs that engage the reader. Write In A Conversational Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors). Put short description of the event so people know where, when, what. Format in MD. If you do not know something, do not put explanations or empty links. Time is Budapest local. The article should be ready to publish as event announcment'
+
+    event_text = event['text']
+    if len(event_text) > 2500:  # Limiting to 3000 characters, adjust as necessary
+       event_text = event_text[:2500]  # Truncate the text
+       
+    print(f"Processed event name: {event['name']}\n")
+
     messages = [
 	    {"role": "system", "content": system_prompt},
-	    {"role": "user", "content": f"Details of the event:\n\nName: {event['name']}\nDate and Time: {event['date_time']}\nLocation: {event['address']}\nOrganizer: {event['organizer_name']}\nText: {event['text']}"}
+	    {"role": "user", "content": f"Details of the event:\n\nName: {event['name']}\nDate and Time: {event['date_time']}\nLocation: {event['address']}\nOrganizer: {event['organizer_name']}\nText: {event_text}"}
 	]
 
     for i in range(3):  # Retry up to 3 times
