@@ -1,7 +1,7 @@
 baseURL = 'http://budapest.ink/'
 languageCode = 'en-us'
 title = 'Budapest events and services'
-paginate = 3
+paginate = 1
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true

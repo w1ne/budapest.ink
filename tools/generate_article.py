@@ -2,7 +2,7 @@ import argparse
 import json
 from datetime import datetime, timedelta
 import re
-import openai
+from openai import OpenAI
 import os
 
 def extract_number(s):
@@ -14,7 +14,7 @@ def extract_number(s):
     return int(match.group()) if match else 0
     
 def generate_description(event, lang):
-    openai.api_key = os.getenv("OPENAI_BUDAPEST_INK_API_KEY")
+    client = OpenAI(api_key=os.getenv("OPENAI_BUDAPEST_INK_API_KEY"))
     system_prompt = ""
     # Use English or Hungarian prompts based on `lang`
     if lang == "en":
@@ -35,13 +35,13 @@ def generate_description(event, lang):
 
     for i in range(3):  # Retry up to 3 times
         try:
-            response = openai.ChatCompletion.create(
+            response = client.chat.completions.create(
                 model="gpt-3.5-turbo",
                 messages=messages,
                 max_tokens=1000
             )
             return response.choices[0].message.content.strip()
-        except openai.error.APIError as e:
+        except client.BadRequestError as e:
                 print(f"OpenAI API request failed for event '{event['name']}' on attempt {i+1}: {e}")
                 time.sleep(5)  # Wait for 5 seconds before retrying
     return None  # Return None if all retries failed
@@ -79,9 +79,9 @@ def main():
             # Write the required Hugo front matter
             f.write("---\n")
             if lang == "en":
-                f.write("title: Top 10 events for today in Budapest\n")
+                f.write("title: Top 10 events for today in Budapest %Y-%m-%d\n")
             else:
-                f.write("title: Top 10 esemény ma Budapesten\n")
+                f.write("title: Top 10 esemény ma Budapesten %Y-%m-%d\n")
             f.write("date: " + datetime.now().strftime("%Y-%m-%d") + "\n")
             f.write("draft: false\n")
             f.write("---\n\n")
@@ -103,4 +103,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
