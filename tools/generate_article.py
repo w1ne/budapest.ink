@@ -40,7 +40,7 @@ def generate_description(event, lang):
                 messages=messages,
                 max_tokens=1000
             )
-            return response['choices'][0]['message']['content'].strip()
+            return response.choices[0].message.content.strip()
         except openai.error.APIError as e:
                 print(f"OpenAI API request failed for event '{event['name']}' on attempt {i+1}: {e}")
                 time.sleep(5)  # Wait for 5 seconds before retrying
