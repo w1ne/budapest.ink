@@ -1,6 +1,6 @@
 {{ define "body_classes" }}page-default-single{{ end }}
 
-{{ $pattern := "\[0-9\]+\\\\.\[0-9\]+, \[0-9\]+\\\\.\[0-9\]+" }}
+{{ $pattern := `[0-9]+\.[0-9]+, [0-9]+\.[0-9]+` }}
 
 {{ if findRE $pattern .Content }}
     {{ $coords := index (findRE $pattern .Content 1) 0 }}
