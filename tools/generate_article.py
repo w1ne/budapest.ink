@@ -79,9 +79,9 @@ def main():
             # Write the required Hugo front matter
             f.write("---\n")
             if lang == "en":
-                f.write("title: Top 10 events for today in Budapest %Y-%m-%d\n")
+                f.write("title: Top 10 events for today in Budapest\n")
             else:
-                f.write("title: Top 10 esemény ma Budapesten %Y-%m-%d\n")
+                f.write("title: Top 10 esemény ma Budapesten\n")
             f.write("date: " + datetime.now().strftime("%Y-%m-%d") + "\n")
             f.write("draft: false\n")
             f.write("---\n\n")
