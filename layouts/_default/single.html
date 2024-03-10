@@ -1,25 +1,30 @@
 {{ define "body_classes" }}page-default-single{{ end }}
 
-{{ $pattern := "[0-9]+\\.[0-9]+, [0-9]+\\.[0-9]+" }}
+{{ $pattern := "\[0-9\]+\\\\.\[0-9\]+, \[0-9\]+\\\\.\[0-9\]+" }}
+
 {{ if findRE $pattern .Content }}
-  {{ $coords := index (findRE $pattern .Content 1) 0 }}
-  {{ if eq .Site.Language.Lang "en" }}
-    <a href="https://www.google.com/maps/place/{{ $coords }}">Click here to see the location on Google Maps</a>
-  {{ else }}
-    <a href="https://www.google.com/maps/place/{{ $coords }}">Kattintson ide a helyszín megtekintéséhez a Google Térképen</a>
-  {{ end }}
+    {{ $coords := index (findRE $pattern .Content 1) 0 }}
+    {{ if eq .Site.Language.Lang "en" }}
+        <a href="https://www.google.com/maps/place/{{ $coords }}">Click here to see the location on Google Maps</a>
+    {{ else }}
+        <a href="https://www.google.com/maps/place/{{ $coords }}">Kattintson ide a helyszín megtekintéséhez a Google Térképen</a>
+    {{ end }}
 {{ end }}
 
 {{ define "main" }}
 <div class="intro">
-  <h1>{{ .Title }}{{ if .Site.Params.addDot }}<span class="dot">.</span>{{ end }}</h1>
-  {{ if .Params.image }}
-  <img alt="{{.Params.imageAltAttribute | default "Article hero image"}}" src="{{ .Params.image | relURL }}" />
-  {{ end }}
+    <h1>{{ .Title }}{{ if .Site.Params.addDot }}<span class="dot">.</span>{{ end }}</h1>
+
+    {{ $postDate := .Date }}
+    {{ $currentDate := now }}
+    {{ $daysDiff := sub $currentDate.Unix $postDate.Unix | div 86400 }}
+
+    {{ if and (isset .Params "image") (lt $daysDiff 4) }}
+        <img alt="{{.Params.imageAltAttribute | default "Article hero image"}}" src="{{ .Params.image | relURL }}" />
+    {{ end }}
 </div>
 
 <div class="content">
-  {{ .Content }}
+    {{ .Content }}
 </div>
 {{ end }}
-
